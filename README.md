@@ -1,1 +1,1 @@
-# Repository for final project
+# Repository for final project for Generative AI training
